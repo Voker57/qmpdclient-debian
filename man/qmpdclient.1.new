@@ -1,0 +1,31 @@
+.TH Qmpdclient 1 "QMPDClient is an easy to use MPD client written in Qt 4." "Dec 2008" 
+.SH NAME
+qmpdclient
+\- QMPDClient is an easy to use MPD client written in Qt 4. 
+.SH SYNOPSIS
+qmpdclient
+.SH DESCRIPTION
+QMPDClient is an easy to use MPD client written in Qt4.
+Features:
+    * Queue support
+    * Dynamic play-list
+    * Configurable keyboard shortcuts
+    * Multimedia keys support
+    * System tray icon
+    * Annouce songs with passive popups
+    * Drag and drop
+    * Stream support
+    * Playlist management
+    * Tag-guessing for untagged files
+    * Directory browser
+.LP
+.SH OPTIONS
+There are no command line options available.
+.SS 
+
+.SH AUTHORS
+.nf
+Copyright (C) 2005-2008 Håvard Tautra Knutsen <havtknut@tihlde.org>
+.br
+Copyright (C) 2008 Voker57 <voker57@gmail.com>
+.br

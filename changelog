@@ -1,0 +1,18 @@
+qmpdclient (1.1.2-1) unstable; urgency=low
+
+  * Updated sources, build system changed to CMake
+
+ -- Voker57 <voker57@gmail.com>  Wed, 04 November 2009 12:47:00 +0300
+
+qmpdclient (1.1.1-1) unstable; urgency=low
+
+  * Updated sources, small fixes
+
+ -- Voker57 <voker57@gmail.com>  Tue, 23 June 2009 00:31:00 +0300
+
+qmpdclient-ne (1.0.9+git.20081230-1) unstable; urgency=low
+
+  * Initial release (Closes: #510260)
+  * pack the git repository to an tar.gz file
+
+ -- Harald Gutmann <harald.gutmann@gmx.net>  Mon, 29 Dec 2008 21:17:05 +0100

@@ -1,0 +1,26 @@
+Source: qmpdclient
+Section: sound
+Priority: extra
+Maintainer: Harald Gutmann <harald.gutmann@gmx.net>
+Build-Depends: debhelper (>= 7), libx11-dev, libstdc++6-4.3-dev, libqt4-dev (>= 4.4.0), cmake (>= 2.6.4)
+Standards-Version: 3.8.0
+Homepage: http://bitcheese.net/QMPDClient
+
+Package: qmpdclient
+Version: 1.1.2-1
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: QT4 based MPD-Front-end
+ QMPDClient is an easy to use MPD client written in Qt4.
+ Features:
+  * Queue support
+  * Dynamic play-list
+  * Configurable keyboard shortcuts
+  * Multimedia keys support
+  * System tray icon
+  * Announce songs with passive pop-ups
+  * Drag and drop
+  * Stream support
+  * Play-list management
+  * Tag-guessing for untagged files
+  * Directory browser

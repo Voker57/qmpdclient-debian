@@ -1,0 +1,9 @@
+# This is a fork with some extensions of 
+# qmpdclient (http://havtknut.tihlde.org/qmpdclient/).
+# 
+# As qmpdclient is not that actual than qmpdclient-ne
+# i prefered to pack qmpdclient-ne but this has no upstream
+# release, and is recently maintained using git.
+#
+# The version packaged contains some more features,
+# for example lyric search and better dbus support.
