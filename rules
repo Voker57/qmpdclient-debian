@@ -13,7 +13,6 @@ configure: configure-stamp
 configure-stamp:
 	dh_testdir
 	# Add here commands to configure the package.
-	sed -i s7PREFIX\ =\ /usr/local7PREFIX\ =\ /usr7 qmpdclient.pro
 	cmake -DCMAKE_INSTALL_PREFIX=/usr
 	touch configure-stamp
 
